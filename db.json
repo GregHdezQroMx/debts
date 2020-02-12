@@ -1,0 +1,130 @@
+{
+	"clients": [
+		{
+			"id":1,
+			"name":"Pedro Solis Cardenas",
+			"address":"Laguna de Términos, Modelo Pensil, Miguel Hidalgo, 11450 Ciudad de México, CDMX",
+			"addressRef":"Cerca Metro Sn Joaquín",
+			"phone";"5522114477",
+			"alternativePhone";"",
+			"sales": [
+				{
+					"id":1,
+					"product":"Refrigerador",
+					"saleDate":"2019-12-12",
+					"route":1,
+					"sellerName":"Claudia Ortiz",
+					"debtCollectoId":1,
+					"debtCollectorName":"Cornelio Reyna",
+					"saleAmount":6500.0,
+					"totalNumberPayments",10
+					"debt_balance":6500.0,
+					"payments":[
+						{
+							"id_pay":1,
+							"payment_number":0,
+							"scheduled_date":"2019-02-12",
+							"payment_amount":650.0,
+							"amount_paid":0.0,
+							"pay_status":0,
+							"pay_discount":0.0,
+							"authorize_discount_name":""
+						}	
+					]
+				},
+				{
+					"id":2,
+					"product":"Licuadora",
+					"saleDate":"2019-12-12",
+					"route":1,
+					"sellerName":"Jose Ortiz",
+					"debtCollectoId":1,
+					"debtCollectorName":"Cornelio Reyna",
+					"saleAmount":600.0,
+					"totalNumberPayments",10
+					"debt_balance":600.0,
+					"payments":[
+						{
+							"id_pay":1,
+							"payment_number":0,
+							"scheduled_date":"2019-02-12",
+							"payment_amount":60.0,
+							"amount_paid":0.0,
+							"pay_status":0,
+							"pay_discount":0.0,
+							"authorize_discount_name":""
+						}	
+					]
+				}
+			]
+		},
+		{
+			"id":2,
+			"name":"Juana Saavedra Solis",
+			"address":"Modelo Pensil, Miguel Hidalgo, 11460 Ciudad de México, CDMX",
+			"addressRef":"Cerca Metro Sn Joaquín",
+			"phone";"5533004477",
+			"alternativePhone";"",
+			"sales": [
+				{
+					"id":1,
+					"product":"Pantalla 32''",
+					"saleDate":"2019-12-12",
+					"route":1,
+					"sellerName":"Claudia Ortiz",
+					"debtCollectoId":1,
+					"debtCollectorName":"Cornelio Reyna",
+					"saleAmount":6500.0,
+					"totalNumberPayments",10
+					"debt_balance":6500.0,
+					"payments":[
+						{
+							"id_pay":1,
+							"payment_number":0,
+							"scheduled_date":"2019-02-12",
+							"payment_amount":350.0,
+							"amount_paid":0.0,
+							"pay_status":0,
+							"pay_discount":0.0,
+							"authorize_discount_name":""
+						}	
+					]
+				}
+			]
+		},
+		{
+			"id":3,
+			"name":"SauLago Wetter 4-2, Reforma Pensil, Miguel Hidalgo, 11440 Ciudad de México, CDMX",			
+			"addressRef":"Cerca Metro Sn Joaquín",
+			"phone";"5522004411",
+			"alternativePhone";"",
+			"sales": [
+				{
+					"id":1,
+					"product":"Celular Xiaomi",
+					"saleDate":"2019-12-12",
+					"route":1,
+					"sellerName":"Coque Muñiz",
+					"debtCollectoId":1,
+					"debtCollectorName":"Cornelio Reyna",
+					"saleAmount":9500.0,
+					"totalNumberPayments",10
+					"debt_balance":9500.0,
+					"payments":[
+						{
+							"id_pay":1,
+							"payment_number":0,
+							"scheduled_date":"2019-02-12",
+							"payment_amount":950.0,
+							"amount_paid":0.0,
+							"pay_status":0,
+							"pay_discount":0.0,
+							"authorize_discount_name":""
+						}	
+					]
+				}
+			]
+		}
+	]
+	
+}
