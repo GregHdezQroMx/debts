@@ -17,7 +17,7 @@
 					"debtCollectoId":1,
 					"debtCollectorName":"Cornelio Reyna",
 					"saleAmount":6500.0,
-					"totalNumberPayments",10
+					"totalNumberPayments":10
 					"debt_balance":6500.0,
 					"payments":[
 						{
@@ -41,7 +41,7 @@
 					"debtCollectoId":1,
 					"debtCollectorName":"Cornelio Reyna",
 					"saleAmount":600.0,
-					"totalNumberPayments",10
+					"totalNumberPayments":10
 					"debt_balance":600.0,
 					"payments":[
 						{
