@@ -5,8 +5,8 @@
 			"name":"Pedro Solis Cardenas",
 			"address":"Laguna de Términos, Modelo Pensil, Miguel Hidalgo, 11450 Ciudad de México, CDMX",
 			"addressRef":"Cerca Metro Sn Joaquín",
-			"phone";"5522114477",
-			"alternativePhone";"",
+			"phone":"5522114477",
+			"alternativePhone":"",
 			"sales": [
 				{
 					"id":1,
@@ -63,8 +63,8 @@
 			"name":"Juana Saavedra Solis",
 			"address":"Modelo Pensil, Miguel Hidalgo, 11460 Ciudad de México, CDMX",
 			"addressRef":"Cerca Metro Sn Joaquín",
-			"phone";"5533004477",
-			"alternativePhone";"",
+			"phone":"5533004477",
+			"alternativePhone":"",
 			"sales": [
 				{
 					"id":1,
@@ -96,8 +96,8 @@
 			"id":3,
 			"name":"SauLago Wetter 4-2, Reforma Pensil, Miguel Hidalgo, 11440 Ciudad de México, CDMX",			
 			"addressRef":"Cerca Metro Sn Joaquín",
-			"phone";"5522004411",
-			"alternativePhone";"",
+			"phone":"5522004411",
+			"alternativePhone":"",
 			"sales": [
 				{
 					"id":1,
